@@ -25,4 +25,4 @@ Description: Data on weapons involved in reported incidents, helping score the s
 [Weapon Seizure Dataset Link](https://data.wprdc.org/datastore/dump/e967381d-d7e9-48e3-a2a2-39262f7fa5c4)
 
 ## Overview
-This project combines three Pittsburgh crime-related datasets to calculate a “Peace Score” and identify the safest neighborhoods using data cleaning, merging, visualization, and ranking techniques.
+This project combines three Pittsburgh crime-related datasets to calculate a “Peace Score” and identify the safest neighborhoods by cleaaning the data, merging the data, ranking the data then finally visualizing it.
